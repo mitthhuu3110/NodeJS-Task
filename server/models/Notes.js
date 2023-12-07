@@ -6,7 +6,7 @@ const NoteSchema = new Schema({
     type: Schema.ObjectId,
     ref: 'User'
   },
-  title: {
+  title: { 
     type: String,
     required: true,
   },

@@ -66,7 +66,7 @@ router.get('/logout', (req, res) => {
       }
     })
   });
-  
+   
 
 // Presist user data after successful authentication
 passport.serializeUser(function (user, done) {

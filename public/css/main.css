@@ -2,7 +2,7 @@
     --background-color: lavender;
     --bs-primary-rgb: #12296c;
   }
-
+ 
   body {
     font-family: 'Poppins', sans-serif;
     background-color: var(--background-color);
